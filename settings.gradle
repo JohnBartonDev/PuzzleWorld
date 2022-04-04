@@ -1,0 +1,1 @@
+include 'lwjgl3', 'core', 'lwjgl2', 'headless'
